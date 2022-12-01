@@ -1,0 +1,32 @@
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\bin\Debug\net5.0\moqopdracht.exe
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\bin\Debug\net5.0\moqopdracht.deps.json
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\bin\Debug\net5.0\moqopdracht.runtimeconfig.json
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\bin\Debug\net5.0\moqopdracht.runtimeconfig.dev.json
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\bin\Debug\net5.0\moqopdracht.dll
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\bin\Debug\net5.0\ref\moqopdracht.dll
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\bin\Debug\net5.0\moqopdracht.pdb
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\obj\Debug\net5.0\moqopdracht.csproj.AssemblyReference.cache
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\obj\Debug\net5.0\moqopdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\obj\Debug\net5.0\moqopdracht.AssemblyInfoInputs.cache
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\obj\Debug\net5.0\moqopdracht.AssemblyInfo.cs
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\obj\Debug\net5.0\moqopdracht.csproj.CoreCompileInputs.cache
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\obj\Debug\net5.0\moqopdracht.dll
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\obj\Debug\net5.0\ref\moqopdracht.dll
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\obj\Debug\net5.0\moqopdracht.pdb
+C:\Users\youne\OneDrive - De Haagse Hogeschool\Week10\src\obj\Debug\net5.0\moqopdracht.genruntimeconfig.cache
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\bin\Debug\net5.0\moqopdracht.exe
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\bin\Debug\net5.0\moqopdracht.deps.json
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\bin\Debug\net5.0\moqopdracht.runtimeconfig.json
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\bin\Debug\net5.0\moqopdracht.runtimeconfig.dev.json
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\bin\Debug\net5.0\moqopdracht.dll
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\bin\Debug\net5.0\ref\moqopdracht.dll
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\bin\Debug\net5.0\moqopdracht.pdb
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\obj\Debug\net5.0\moqopdracht.csproj.AssemblyReference.cache
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\obj\Debug\net5.0\moqopdracht.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\obj\Debug\net5.0\moqopdracht.AssemblyInfoInputs.cache
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\obj\Debug\net5.0\moqopdracht.AssemblyInfo.cs
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\obj\Debug\net5.0\moqopdracht.csproj.CoreCompileInputs.cache
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\obj\Debug\net5.0\moqopdracht.dll
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\obj\Debug\net5.0\ref\moqopdracht.dll
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\obj\Debug\net5.0\moqopdracht.pdb
+D:\Leerjaar 2 2021-2022\Portfolio 2\Week10\src\obj\Debug\net5.0\moqopdracht.genruntimeconfig.cache
